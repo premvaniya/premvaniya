@@ -49,13 +49,13 @@ A robust **Java-based** system for hotel operations, optimizing data flow and ev
 ## 🎓 Education
 
 **Integrated M.Sc in Information Technology**  
-📚 Silver Oak University, Ahmedabad | 🗓️ 2020–Present  
+📚 Silver Oak University, Ahmedabad | 🗓️ 2022–226  
 
 ---
 
 ## 🌍 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premvaniyya)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premvaniya)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/premvaniya)  
 📧 **Email**: [vaniyaprem77@gmail.com](mailto:vaniyaprem77@gmail.com)  
 📍 **Location**: Ahmedabad, Gujarat, India  
