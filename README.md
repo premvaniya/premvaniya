@@ -10,10 +10,10 @@ Hello, world! I'm **Prem Vaniya**, a backend development enthusiast pursuing an 
 
 | **Domain**              | **Skills**                                         | **Proficiency** |
 |-------------------------|----------------------------------------------------|-----------------|
-| **Backend**             | PHP, Laravel, Java, Go, Node.js                    | ![90%](https://progress-bar.dev/90) |
-| **Databases**           | MySQL, SQL, MongoDB                                | ![85%](https://progress-bar.dev/85) |
-| **Frontend**            | HTML, CSS, JavaScript, jQuery, React               | ![70%](https://progress-bar.dev/70) |
-| **Tools & Tech**        | Git, GitHub, RESTful APIs, Docker                  | ![80%](https://progress-bar.dev/80) |
+| **Backend**             | PHP, Laravel, Java, Go, Node.js                    | 90% |
+| **Databases**           | MySQL, SQL, MongoDB                                | 85% |
+| **Frontend**            | HTML, CSS, JavaScript, jQuery, React               | 70% |
+| **Tools & Tech**        | Git, GitHub, RESTful APIs, Docker                  | 80% |
 
 ---
 
